@@ -407,6 +407,7 @@ img {
   background: var(--bg-secondary);
   padding: 0.25rem;
   border-radius: var(--border-radius-sm);
+  border: 1px solid var(--border-color);
 }
 
 .quantity-btn {
@@ -446,6 +447,7 @@ img {
   font-size: 0.9rem;
   font-weight: 500;
   border-radius: var(--border-radius-sm);
+  border: 1px solid var(--error-color);
   transition: all var(--transition-fast);
 }
 
